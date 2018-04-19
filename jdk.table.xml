@@ -1,0 +1,89 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.12" />
+      <homePath value="/usr/bin/python2.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python2.7" type="simple" />
+            <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python2.7/lib-tk" type="simple" />
+            <root url="file:///usr/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///usr/local/lib/python2.7/dist-packages" type="simple" />
+            <root url="file:///usr/lib/python2.7/dist-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1247972723" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (iceberg)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.3" />
+      <homePath value="$USER_HOME$/anaconda3/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.6" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/.local/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/fonttools-3.21.0-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/casuarius-1.1-py3.6-linux-x86_64.egg" type="simple" />
+            <root url="jar://$USER_HOME$/anaconda3/lib/python3.6/site-packages/encore-0.7.1.dev0-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/traits-4.7.0.dev59-py3.6-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/pyface-5.2.0.dev283-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/traitsui-5.2.0.dev338-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/codetools-4.3.0.dev44-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/scimath-4.1.3.dev0-py3.6-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/enable-4.7.1.dev10-py3.6-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/apptools-4.5.0.dev9-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/envisage-4.7.0.dev21-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/chaco-4.7.1.dev14-py3.6-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/mayavi-4.5.1.dev0-py3.6-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/incubator-mxnet/python" type="simple" />
+            <root url="file://$USER_HOME$/mxnet-model-server" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/127050831" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional>
+        <PATHS_REMOVED_BY_USER_ROOT PATH_REMOVED_BY_USER="file://$USER_HOME$/Downloads/ets/traits/build/lib.linux-x86_64-3.6" />
+        <PATHS_REMOVED_BY_USER_ROOT PATH_REMOVED_BY_USER="file://$USER_HOME$/Downloads/ets/codetools" />
+        <PATHS_REMOVED_BY_USER_ROOT PATH_REMOVED_BY_USER="file://$USER_HOME$/Downloads/ets/encore" />
+        <PATHS_REMOVED_BY_USER_ROOT PATH_REMOVED_BY_USER="file://$USER_HOME$/Downloads/ets/casuarius" />
+        <PATHS_REMOVED_BY_USER_ROOT PATH_REMOVED_BY_USER="file://$USER_HOME$/Downloads/ets/traitsui/build/lib" />
+        <PATHS_REMOVED_BY_USER_ROOT PATH_REMOVED_BY_USER="file://$USER_HOME$/Downloads/ets/pyface/build/lib" />
+        <PATHS_REMOVED_BY_USER_ROOT PATH_REMOVED_BY_USER="file://$USER_HOME$/Downloads/ets/enable" />
+        <PATHS_REMOVED_BY_USER_ROOT PATH_REMOVED_BY_USER="file://$USER_HOME$/Downloads/ets/apptools/build/lib" />
+        <PATHS_REMOVED_BY_USER_ROOT PATH_REMOVED_BY_USER="file://$USER_HOME$/Downloads/ets/scimath" />
+        <PATHS_REMOVED_BY_USER_ROOT PATH_REMOVED_BY_USER="file://$USER_HOME$/Downloads/ets/chaco" />
+        <PATHS_REMOVED_BY_USER_ROOT PATH_REMOVED_BY_USER="file://$USER_HOME$/Downloads/ets/envisage" />
+      </additional>
+    </jdk>
+  </component>
+</application>
